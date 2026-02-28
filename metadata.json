@@ -1,0 +1,5 @@
+{
+  "name": "Ozon Labels Articler",
+  "description": "Автоматическое добавление артикулов и названий товаров на PDF этикетки Ozon на основе списка отправлений.",
+  "requestFramePermissions": []
+}
